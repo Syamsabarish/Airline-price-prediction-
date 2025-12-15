@@ -10,7 +10,7 @@
   Scikit-learn
   Jupyter Notebook
 
-Machine Learning Models
+Machine Learning 
 **Models used for price prediction**:
   Linear Regression
   Decision Tree Regressor
